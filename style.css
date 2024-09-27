@@ -45,6 +45,12 @@ h1{
     gap: 1.3rem;
 }
 
+@media only screen and (max-width: 850px){
+    .game{
+        width: 300px;
+    }
+}
+
 .box{
     height: 15vmin;
     width: 15vmin;
